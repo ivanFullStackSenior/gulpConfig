@@ -1,0 +1,18 @@
+span {
+  color: yellow;
+  border: 1px solid red;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  display: inline-block;
+  -webkit-transition: .4s;
+  -moz-transition: .4s;
+  -ms-transition: .4s;
+  -o-transition: .4s;
+  transition: .4s; }
+
+p {
+  color: green; }
+
+body {
+  background: palegreen; }
